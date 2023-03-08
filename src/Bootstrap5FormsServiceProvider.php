@@ -2,7 +2,7 @@
 
 namespace CirrionSoftware\Bootstrap5Forms;
 
-use Illuminate\Support\ServiceProvider;
+use \Illuminate\Support\ServiceProvider;
 
 class Bootstrap5FormsServiceProvider extends ServiceProvider
 {

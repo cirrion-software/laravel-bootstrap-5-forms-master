@@ -2,7 +2,7 @@
 
 namespace CirrionSoftware\Bootstrap5Forms;
 
-use Illuminate\Support\ViewErrorBag;
+use \Illuminate\Support\ViewErrorBag;
 
 class FormBuilder
 {
