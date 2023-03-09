@@ -9,6 +9,6 @@ class Bootstrap5FormsFacade extends Facade
 
     protected static function getFacadeAccessor()
     {
-        return BootStrap5Form::class;
+        return 'bootstrap5-form';
     }
 }
