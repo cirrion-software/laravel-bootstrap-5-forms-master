@@ -18,6 +18,7 @@
             "email": "mcharlesworth76@yahoo.co.uk"
         }
     ],
+    "version": "3.0.5",
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
