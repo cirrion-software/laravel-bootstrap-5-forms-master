@@ -11,7 +11,7 @@ class Bootstrap5FormsServiceProvider extends ServiceProvider
 
     public function register()
     {
-        $this->app->singleton('bootstrap5-form', function () {
+        $this->app->singleton(BootStrap5Form::class, function () {
             return new FormService();
         });
     }
