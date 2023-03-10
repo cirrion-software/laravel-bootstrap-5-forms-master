@@ -1,5 +1,5 @@
 {
-    "name": "cirrion-software/laravel-bootstrap-5-forms-master",
+    "name": "cirrion/laravel-bootstrap-5-forms-master",
     "type": "package",
     "description": "Bootstrap 5 form builder for Laravel 9",
     "keywords": [
