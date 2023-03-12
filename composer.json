@@ -23,16 +23,16 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "CirrionSoftware\\Bootstrap5Forms\\": "src/"
+            "NetoJose\\Bootstrap4Forms\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "CirrionSoftware\\Bootstrap5Forms\\Bootstrap5FormsServiceProvider"
+                "NetoJose\\Bootstrap4Forms\\Bootstrap4FormsServiceProvider"
             ],
             "aliases": {
-                "Form": "CirrionSoftware\\Bootstrap5Forms\\Bootstrap5FormsFacade"
+                "Form": "NetoJose\\Bootstrap4Forms\\Bootstrap4FormsFacade"
             }
         }
     }
